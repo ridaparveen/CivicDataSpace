@@ -73,7 +73,7 @@ A responsive data explorer built using **Next.js, React, and TypeScript**, featu
 ### 🔹 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/ridaparveen/CivicDataSpace
 cd your-repo
 ```
 
